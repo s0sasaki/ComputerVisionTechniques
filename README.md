@@ -1,2 +1,11 @@
 # ComputerVisionTechniques
-Homography, Photometric stereo, Specularity removal, Surface rendering, Corner detection, Epipolar geometry, Sparse stereo matching 
+
+ - Homography
+ - Photometric stereo
+ - Specularity removal
+ - Surface rendering
+ - Corner detection 
+ - Epipolar geometry
+ - Sparse stereo matching 
+
+Ref: CSE252
