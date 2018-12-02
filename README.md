@@ -7,5 +7,6 @@
  - Corner detection 
  - Epipolar geometry
  - Sparse stereo matching 
+ - Image compression
+ - Orthogonal matching pursuit
 
-Ref: CSE252
