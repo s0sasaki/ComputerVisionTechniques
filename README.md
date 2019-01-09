@@ -9,4 +9,5 @@
  - Sparse stereo matching 
  - Image compression
  - Orthogonal matching pursuit
+ - EigenFace
 
