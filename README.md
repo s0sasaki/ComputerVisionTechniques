@@ -10,4 +10,5 @@
  - Image compression
  - Orthogonal matching pursuit
  - EigenFace
-
+ - Image segmentation
+ - MAP estimation
