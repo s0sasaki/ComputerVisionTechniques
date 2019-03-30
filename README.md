@@ -11,4 +11,4 @@
  - Orthogonal matching pursuit
  - EigenFace
  - Image segmentation
- 
+ - EM Algorithm
