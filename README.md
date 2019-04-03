@@ -14,3 +14,4 @@
  - EM Algorithm
  - Linear Discriminant Analysis
  - Regularized Discriminant Analysis
+ - Neural Network
