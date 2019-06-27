@@ -16,3 +16,6 @@
  - Regularized Discriminant Analysis
  - Neural Network
  - AdaBoost
+ - Soft Margin SVM
+ - Kernel SVM
+ - Kalman Filter
