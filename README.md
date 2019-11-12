@@ -19,3 +19,4 @@
  - Soft Margin SVM
  - Kernel SVM
  - Kalman Filter
+ - SLAM
