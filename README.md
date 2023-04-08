@@ -20,3 +20,8 @@
  - Kernel SVM
  - Kalman Filter
  - SLAM
+
+I like the SLAM results:
+
+![Alt Text](https://github.com/s0sasaki/ComputerVisionTechniques/blob/a48252231259cee755f470587a793aaec47767a2/slam/result1.gif)
+![Alt Text](https://github.com/s0sasaki/ComputerVisionTechniques/blob/a48252231259cee755f470587a793aaec47767a2/slam/result2.gif)
