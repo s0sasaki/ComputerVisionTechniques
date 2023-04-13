@@ -23,7 +23,17 @@
  - Proxy NCA
  - Vector Quatization by Deterministic Annealing
 
-I like the SLAM results:
+## Examples 
+
+### Corner Detection and Sparse Stereo Matching with Epipolar Geometry
+
+![image](https://github.com/s0sasaki/ComputerVisionTechniques/blob/3ae074194841484007f515deb9aee75b0e70deee/epipolar_geometry/Epipolar%20Geometry.png)
+
+### Photometric Stereo for Surface Reconstruction
+
+![image](https://github.com/s0sasaki/ComputerVisionTechniques/blob/3ae074194841484007f515deb9aee75b0e70deee/photometric_stereo/Photometric%20Stereo.png)
+
+### SLAM for a Robot in a Building
 
 ![Alt Text](https://github.com/s0sasaki/ComputerVisionTechniques/blob/a48252231259cee755f470587a793aaec47767a2/slam/result1.gif)
 ![Alt Text](https://github.com/s0sasaki/ComputerVisionTechniques/blob/a48252231259cee755f470587a793aaec47767a2/slam/result2.gif)
