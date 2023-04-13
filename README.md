@@ -20,6 +20,8 @@
  - Kernel SVM
  - Kalman Filter
  - SLAM
+ - Proxy NCA
+ - Vector Quatization by Deterministic Annealing
 
 I like the SLAM results:
 
